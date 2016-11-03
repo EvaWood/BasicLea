@@ -3,7 +3,7 @@ package basic.lea;
 	class Account {
     String name;
     float amount;
-    String AA1111;
+    String AA2222;
     
     
     public Account(String name, float amount) {
